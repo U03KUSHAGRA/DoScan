@@ -1,3 +1,0 @@
-OPENCV.exe filter=lfs diff=lfs merge=lfs -text
-OPENCV filter=lfs diff=lfs merge=lfs -text
-*.exe filter=lfs diff=lfs merge=lfs -text
